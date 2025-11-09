@@ -4,6 +4,7 @@ transcript
 vsim.wlf
 *.mti
 *.mpf
+*.mpf_new
 *.cr.mti
 *.qdb
 *.qpg
@@ -22,3 +23,6 @@ vsim.wlf
 *.user
 Thumbs.db
 desktop.ini
+
+
+task_1.mpf_new
