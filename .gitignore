@@ -1,0 +1,24 @@
+# ===== QuestaSim / ModelSim build files =====
+work/
+transcript
+vsim.wlf
+*.mti
+*.mpf
+*.cr.mti
+*.qdb
+*.qpg
+*.qtl
+*_stacktrace.txt
+*_stacktrace.vstf
+
+# ===== Backup or temp files =====
+*.bak
+*.log
+*.tmp
+
+# ===== System & editor junk =====
+.vs/
+.vscode/
+*.user
+Thumbs.db
+desktop.ini
